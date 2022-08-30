@@ -5,7 +5,7 @@
   - 3D printing
   - [Console Portabilizing](https://bitbuilt.net/forums/index.php?threads/wiigc-working-title.4449/#post-54777)
 - 🌱 I’m currently learning how to code in C, working my way through [Think C by Allen Downey & Thomas Scheffler](https://greenteapress.com/wp/think-c/)
-- - 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me
    - [Discord](https://discordapp.com/users/SvenPaterson#8084) - SvenPaterson#8084
 
